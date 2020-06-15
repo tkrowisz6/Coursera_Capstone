@@ -1,2 +1,2 @@
 # Coursera_Capstone
- This is primarily for Data Science course project
+ This is primarily for Applied Data Science Capstone course projects
